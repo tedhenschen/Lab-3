@@ -10,7 +10,7 @@ class Main {
     System.out.println();
     System.out.println("Starting Count Down at: ");
 
-    if (number > 0 )
+    if (number >= 0 )
       {
         while(number>=0)
         {
