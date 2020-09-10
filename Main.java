@@ -7,6 +7,9 @@ class Main {
     System.out.println("Enter a number to count down or up from:");
     int number = s.nextInt();
     
+    System.out.println();
+    System.out.println("Starting Count Down at: ");
+
     if (number > 0 )
       {
         while(number>=0)
